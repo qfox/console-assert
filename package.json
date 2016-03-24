@@ -1,6 +1,6 @@
 {
   "name": "console-assert",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Standardizer for node's console.assert",
   "main": "index.js",
   "scripts": {
